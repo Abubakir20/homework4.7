@@ -52,7 +52,7 @@ class MySQL:
 
 mysql = MySQL()
 
-# INSERT (пример)
+# INSERT:
 # for i in range(10):
 #     mysql.InsertTB(input("Name: "), input("Adress: "), int(input("MAX price: ")), int(input("MIN price: ")), int(input("Employees: ")), int(input("Exз: ")))
 
